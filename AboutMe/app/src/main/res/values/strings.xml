@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="bio">Hard-working, enthusiastic Computer Science student willing to learn and
+improve skills in software development.
+        \n\nBringing forth a positive work ethic
+and the ability to work both independently and collaboratively.
+        \n\nSeeking
+a position where I can maximize my professional experience and build a
+career.
+        \n\nI have strong analytical skills, I am super hard working, willing to learn and attentive to details.
+        \n\nFurthermore, I’m a person with strong soft skills.
+        \n\nI create pleasant working environment as it’s highly important for me to have nice atmosphere in my workplace.</string>
+    <string name="name">Oleksandr Bieliakov</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="what_is_you_nickname">What\'s you nickname?</string>
+    <string name="done">Done</string>
+</resources>

@@ -90,4 +90,7 @@ dependencies {
 
     // RecyclerView
     implementation "androidx.recyclerview:recyclerview:$version_recyclerview"
+
+    implementation "com.squareup.retrofit2:converter-scalars:$version_retrofit"
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
 }

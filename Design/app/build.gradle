@@ -90,4 +90,9 @@ dependencies {
 
     // Client for retrieving location
     implementation "com.google.android.gms:play-services-location:$version_play_services"
+
+    // AndroidTest
+    androidTestImplementation 'androidx.test:core:1.1.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+
 }
